@@ -1,0 +1,14 @@
+﻿  AES.cpp
+E:\VS\C++\AES\AES.cpp(536,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\VS\C++\AES\AES.cpp(579,28): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+E:\VS\C++\AES\AES.cpp(597,56): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+E:\VS\C++\AES\AES.cpp(601,56): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+E:\VS\C++\AES\AES.cpp(605,56): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+E:\VS\C++\AES\AES.cpp(609,56): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+E:\VS\C++\AES\AES.cpp(614,56): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+E:\VS\C++\AES\AES.cpp(666,80): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\VS\C++\AES\AES.cpp(670,80): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\VS\C++\AES\AES.cpp(674,80): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\VS\C++\AES\AES.cpp(678,80): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\VS\C++\AES\AES.cpp(683,98): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+  AES.vcxproj -> E:\VS\C++\AES\x64\Debug\AES.exe

@@ -1,0 +1,37 @@
+﻿  AES.cpp
+E:\VS\C++\AES\AES.cpp(271,16): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(283,16): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(305,21): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(310,22): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(314,22): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(325,21): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(331,22): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(343,21): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(349,22): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(363,23): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(368,23): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(374,23): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(391,22): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(421,21): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(424,21): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(428,21): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(433,22): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(437,22): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(448,21): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(454,22): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(467,21): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(473,22): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(504,24): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(522,22): warning C4018:  '<': signed/unsigned mismatch
+E:\VS\C++\AES\AES.cpp(536,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\VS\C++\AES\AES.cpp(579,28): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+E:\VS\C++\AES\AES.cpp(597,56): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+E:\VS\C++\AES\AES.cpp(601,56): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+E:\VS\C++\AES\AES.cpp(605,56): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+E:\VS\C++\AES\AES.cpp(609,56): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+E:\VS\C++\AES\AES.cpp(614,56): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 327 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AES.vcxproj -> E:\VS\C++\AES\Release\AES.exe
